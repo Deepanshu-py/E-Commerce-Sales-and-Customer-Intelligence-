@@ -56,32 +56,35 @@ The workflow follows a real-world data analytics process:
 
 ## Project Structure
 ├── dataset/
+
 │ ├── online_retail_II.zip
 │ ├── retail_sales_cleaned.zip
 │ ├── rfm_dataset.zip
 │
+
 ├── notebooks/
 │ └── Ecommerce_sales_customer_datacleaning_eda.ipynb
 │
+
 ├── sql/
 │ └── retail_sales_sql_eda.sql
 │
+
 ├── dashboard/
 │ └── Ecommerce_sales_dashboard.pbix
 │
+
 ├── screenshots/
 │ ├── page1.png
 │ ├── page2.png
 │ ├── page3.png
 │ ├── page4.png
 │
-├── outputs/
-│ └── rfm_table.csv
-│
-├── reports/
+
 │ ├── Ecommerce_Analysis_Report.docx
 │ └── E-Commerce_Sales_Customer_Intelligence_System.pdf
 │
+
 └── README.md
 
  ---
