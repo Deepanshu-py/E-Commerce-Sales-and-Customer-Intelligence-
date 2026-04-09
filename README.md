@@ -63,18 +63,22 @@ The workflow follows a real-world data analytics process:
 │
 
 ├── notebooks/
+
 │ └── Ecommerce_sales_customer_datacleaning_eda.ipynb
 │
 
 ├── sql/
+
 │ └── retail_sales_sql_eda.sql
 │
 
 ├── dashboard/
+
 │ └── Ecommerce_sales_dashboard.pbix
 │
 
 ├── screenshots/
+
 │ ├── page1.png
 │ ├── page2.png
 │ ├── page3.png
@@ -82,6 +86,7 @@ The workflow follows a real-world data analytics process:
 │
 
 │ ├── Ecommerce_Analysis_Report.docx
+
 │ └── E-Commerce_Sales_Customer_Intelligence_System.pdf
 │
 
